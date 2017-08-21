@@ -26,4 +26,4 @@ function sendEmail($path, $msg = null, $toUser = ['???@qq.com','???@example.com'
     }
 }
 
-sendEmail(['C:/Users/Admin/smtp/test.xlsx']);
+sendEmail(['/Users/smtp/test.xlsx']);

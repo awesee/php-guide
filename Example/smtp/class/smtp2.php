@@ -1,12 +1,9 @@
 <?php
-/*
-邮件发送smtp服务
-联结smtp服务器，进行邮件发送,版权所有，不能复制
-@author:jackbrown;
-@qq: 610269963
-@time:2011-8-20;
-@version:1.0.3;
-*/
+
+/**
+ * SMTP发送邮件
+ * @author Sandy
+ */
 class smtp{
 
     /*邮件用户名*/

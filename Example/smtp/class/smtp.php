@@ -2,7 +2,7 @@
 
 /**
  * SMTP发送邮件
- * @author Andy
+ * @author Sandy
  */
 class smtp
 {
