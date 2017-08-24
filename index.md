@@ -24,6 +24,7 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
   - [Laravel:](https://laravel.com/){:target="_blank"} The PHP Framework For Web Artisans
   - [Symfony:](http://symfony.com/){:target="_blank"} Symfony is a set of PHP Components, a Web Application framework, a Philosophy, and a Community — all working together in harmony.
   - [Yii:](http://www.yiiframework.com/){:target="_blank"} Yii 是一个 高性能 的，适用于开发 WEB 2.0 应用的 PHP 框架。
+  - [Zend Framework:](https://framework.zend.com/){:target="_blank"} Yii 是一个 高性能 的，适用于开发 WEB 2.0 应用的 PHP 框架。
   - [CI:](https://codeigniter.org.cn/){:target="_blank"} CodeIgniter 是一套给 PHP 网站开发者使用的应用程序开发框架和工具包。
 
 ## 模板引擎
@@ -33,6 +34,7 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
   - [PHP Sandbox:](http://sandbox.onlinephpfunctions.com/){:target="_blank"} You can test your PHP code here on many php versions.
   - [PHP For Windows:](http://windows.php.net/){:target="_blank"} This site is dedicated to supporting PHP on Microsoft Windows.
   - [Composer:](http://sandbox.onlinephpfunctions.com/){:target="_blank"} Dependency Manager for PHP
+  - [PHPUnit:](http://sandbox.onlinephpfunctions.com/){:target="_blank"} PHPUnit is a programmer-oriented testing framework for PHP.
 
 ## 社区论坛
   - [Laravel China 社区](https://laravel-china.org/)
