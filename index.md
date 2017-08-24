@@ -27,7 +27,8 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
   - [Yii:](http://www.yiiframework.com/){:target="_blank"} Yii 是一个 高性能 的，适用于开发 WEB 2.0 应用的 PHP 框架。
   - [Zend Framework:](https://framework.zend.com/){:target="_blank"} Yii 是一个 高性能 的，适用于开发 WEB 2.0 应用的 PHP 框架。
   - [CI:](https://codeigniter.org.cn/){:target="_blank"} CodeIgniter 是一套给 PHP 网站开发者使用的应用程序开发框架和工具包。
-  - [更多热门框架:](https://github.com/codeguy/php-the-right-way/wiki/Frameworks){:target="_blank"}
+
+  - [更多热门框架](https://github.com/codeguy/php-the-right-way/wiki/Frameworks){:target="_blank"}
 
 ## 模板引擎
   - [Twig:](https://twig.symfony.com/){:target="_blank"} The flexible, fast, and secure template engine for PHP
