@@ -19,7 +19,7 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
   - [PHP 核心：骇客指南](http://php.net/manual/zh/internals2.php){:target="_blank"}
   - [FAQ：常见问题](http://php.net/manual/zh/faq.php){:target="_blank"}
   - [附录](http://php.net/manual/zh/appendices.php){:target="_blank"}
-  - [PHP 之道:](http://www.phptherightway.com/) PHP The Right Way
+  - [PHP 之道:](http://www.phptherightway.com/){:target="_blank"} PHP The Right Way
 
 ## 热门框架
   - [Laravel:](https://laravel.com/){:target="_blank"} The PHP Framework For Web Artisans
@@ -34,7 +34,8 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
 ## 常用工具
   - [PHP Sandbox:](http://sandbox.onlinephpfunctions.com/){:target="_blank"} You can test your PHP code here on many php versions.
   - [PHP For Windows:](http://windows.php.net/){:target="_blank"} This site is dedicated to supporting PHP on Microsoft Windows.
-  - [Composer:](http://sandbox.onlinephpfunctions.com/){:target="_blank"} Dependency Manager for PHP
+  - [Composer:](http://sandbox.onlinephpfunctions.com/){:target="_blank"} Dependency Manager for PHP.
+  - [Xdebug:](https://xdebug.org/){:target="_blank"} Debugger and Profiler Tool for PHP.
   - [PHPUnit:](http://sandbox.onlinephpfunctions.com/){:target="_blank"} PHPUnit is a programmer-oriented testing framework for PHP.
 
 ## 社区论坛
