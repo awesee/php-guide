@@ -21,6 +21,7 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
 
 ## 热门框架
   - [Laravel:](https://laravel.com/) The PHP Framework For Web Artisans
+  - [Symfony:](http://symfony.com/) Symfony is a set of PHP Components, a Web Application framework, a Philosophy, and a Community — all working together in harmony.
   - [Yii:](http://www.yiiframework.com/) Yii 是一个 高性能 的，适用于开发 WEB 2.0 应用的 PHP 框架。
   - [CI:](https://codeigniter.org.cn/) CodeIgniter 是一套给 PHP 网站开发者使用的应用程序开发框架和工具包。
 
