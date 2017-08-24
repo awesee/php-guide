@@ -27,6 +27,7 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
 
 ## 常用工具
   - [PHP Sandbox](http://sandbox.onlinephpfunctions.com/)
+  - [PHP For Windows:](http://windows.php.net/){:target="_blank"} This site is dedicated to supporting PHP on Microsoft Windows. It also supports ports of PHP extensions or features as well as providing special builds for the various Windows architectures.
   - [Composer:](http://sandbox.onlinephpfunctions.com/){:target="_blank"} Dependency Manager for PHP
 
 ## 社区论坛
