@@ -34,7 +34,8 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
 ## 常用工具
   - [PHP Sandbox:](http://sandbox.onlinephpfunctions.com/) You can test your PHP code here on many php versions.
   - [PHP For Windows:](http://windows.php.net/) This site is dedicated to supporting PHP on Microsoft Windows.
-  - [Composer:](http://sandbox.onlinephpfunctions.com/) Dependency Manager for PHP
+  - [Composer:](http://sandbox.onlinephpfunctions.com/) Dependency Manager for PHP.
+  - [Xdebug:](https://xdebug.org/) Debugger and Profiler Tool for PHP.
   - [PHPUnit:](http://sandbox.onlinephpfunctions.com/) PHPUnit is a programmer-oriented testing framework for PHP.
 
 ## 社区论坛
