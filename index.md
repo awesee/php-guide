@@ -27,6 +27,7 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
 
 ## 常用工具
   - [PHP Sandbox](http://sandbox.onlinephpfunctions.com/)
+  - [Composer:](http://sandbox.onlinephpfunctions.com/){:target="_blank"} Dependency Manager for PHP
 
 ## 社区论坛
   - [Laravel China 社区](https://laravel-china.org/)
