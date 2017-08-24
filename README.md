@@ -19,6 +19,7 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
   - [PHP 核心：骇客指南](http://php.net/manual/zh/internals2.php)
   - [FAQ：常见问题](http://php.net/manual/zh/faq.php)
   - [附录](http://php.net/manual/zh/appendices.php)
+  - [PHP 之道:](http://www.phptherightway.com/) PHP The Right Way
 
 ## 热门框架
   - [Laravel:](https://laravel.com/) The PHP Framework For Web Artisans
