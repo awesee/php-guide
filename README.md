@@ -1,4 +1,4 @@
-# [PHP](https://openset.github.io/PHP/)
+# [PHP 指导](https://openset.github.io/php-guide/)
 PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.
 
 ## 目录
@@ -20,9 +20,9 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
   - [PHP 核心：骇客指南](http://php.net/manual/zh/internals2.php)
   - [FAQ：常见问题](http://php.net/manual/zh/faq.php)
   - [附录](http://php.net/manual/zh/appendices.php)
-  - [PHP 之道:](http://www.phptherightway.com/) PHP The Right Way
 
 ## 进阶学习
+  - [PHP 之道:](http://www.phptherightway.com/) PHP The Right Way
   - [Awesome PHP:](https://openset.github.io/awesome-php/) A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## 热门框架
