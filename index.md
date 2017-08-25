@@ -41,7 +41,7 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
 
 ## 开发工具
   - [Sublime Text:](http://www.sublimetext.com/){:target="_blank"} Sublime Text is a sophisticated text editor for code, markup and prose.
-  - [PhpStorm](http://www.jetbrains.com/phpstorm/){:target="_blank"} Lightning-smart PHP IDE
+  - [PhpStorm:](http://www.jetbrains.com/phpstorm/){:target="_blank"} Lightning-smart PHP IDE
 
 ## 项目部署
   - [Deployer:](https://deployer.org/){:target="_blank"} Deployment tool for PHP.
