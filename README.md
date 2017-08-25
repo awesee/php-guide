@@ -40,7 +40,7 @@ PHP语言学习资料索引
 
 ## 开发工具
   - [Sublime Text:](http://www.sublimetext.com/) Sublime Text is a sophisticated text editor for code, markup and prose.
-  - [PhpStorm](http://www.jetbrains.com/phpstorm/) Lightning-smart PHP IDE
+  - [PhpStorm:](http://www.jetbrains.com/phpstorm/) Lightning-smart PHP IDE
 
 ## 项目部署
   - [Deployer:](https://deployer.org/) Deployment tool for PHP.
