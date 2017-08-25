@@ -20,9 +20,9 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
   - [PHP 核心：骇客指南](http://php.net/manual/zh/internals2.php){:target="_blank"}
   - [FAQ：常见问题](http://php.net/manual/zh/faq.php){:target="_blank"}
   - [附录](http://php.net/manual/zh/appendices.php){:target="_blank"}
-  - [PHP 之道:](http://www.phptherightway.com/){:target="_blank"} PHP The Right Way
 
 ## 进阶学习
+  - [PHP 之道:](http://www.phptherightway.com/){:target="_blank"} PHP The Right Way
   - [Awesome PHP:](https://openset.github.io/awesome-php/){:target="_blank"} A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## 热门框架
