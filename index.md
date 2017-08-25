@@ -6,6 +6,7 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
   - [进阶学习](#进阶学习)
   - [热门框架](#热门框架)
   - [模板引擎](#模板引擎)
+  - [项目部署](#项目部署)
   - [常用工具](#常用工具)
   - [社区论坛](#社区论坛)
 
@@ -35,7 +36,10 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
   - [更多热门框架](https://github.com/codeguy/php-the-right-way/wiki/Frameworks){:target="_blank"}
 
 ## 模板引擎
-  - [Twig:](https://twig.symfony.com/){:target="_blank"} The flexible, fast, and secure template engine for PHP
+  - [Twig:](https://twig.symfony.com/){:target="_blank"} The flexible, fast, and secure template engine for PHP.
+
+## 项目部署
+  - [Deployer:](https://deployer.org/){:target="_blank"} Deployment tool for PHP.
 
 ## 常用工具
   - [PHP Sandbox:](http://sandbox.onlinephpfunctions.com/){:target="_blank"} You can test your PHP code here on many php versions.
