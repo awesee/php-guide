@@ -54,4 +54,4 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
   - [PHPUnit:](http://sandbox.onlinephpfunctions.com/){:target="_blank"} PHPUnit is a programmer-oriented testing framework for PHP.
 
 ## 社区论坛
-  - [Laravel China 社区](https://laravel-china.org/){:target="_blank"} 高品质的 Laravel 开发者社区
+  - [Laravel China 社区:](https://laravel-china.org/){:target="_blank"} 高品质的 Laravel 开发者社区
