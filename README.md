@@ -53,4 +53,4 @@ PHP语言学习资料索引
   - [PHPUnit:](http://sandbox.onlinephpfunctions.com/) PHPUnit is a programmer-oriented testing framework for PHP.
 
 ## 社区论坛
-  - [Laravel China 社区](https://laravel-china.org/) 高品质的 Laravel 开发者社区
+  - [Laravel China 社区:](https://laravel-china.org/) 高品质的 Laravel 开发者社区
