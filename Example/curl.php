@@ -1,9 +1,9 @@
 <?php
 
-    $post_url = "http://www.gomaster.cn/mweb/index.php?c=jyx_games&a=doSubmit";
+    $post_url = "";
     $post_data = array(
-                    "score"=>245,
-                    "game_id"=>2
+                    "id"=>245,
+                    "name"=>2
                  );
     $headers = array(
         "Content-type: application/json;charset='utf-8'",
@@ -39,6 +39,3 @@
     curl_close($ch);
     
     session_write_close(); 
-
-
-?>
