@@ -48,9 +48,9 @@ PHP语言学习资料索引
 ## 常用工具
   - [PHP Sandbox:](http://sandbox.onlinephpfunctions.com/) You can test your PHP code here on many php versions.
   - [PHP For Windows:](http://windows.php.net/) This site is dedicated to supporting PHP on Microsoft Windows.
-  - [Composer:](http://sandbox.onlinephpfunctions.com/) Dependency Manager for PHP.
+  - [Composer:](https://getcomposer.org/) Dependency Manager for PHP.
   - [Xdebug:](https://xdebug.org/) Debugger and Profiler Tool for PHP.
-  - [PHPUnit:](http://sandbox.onlinephpfunctions.com/) PHPUnit is a programmer-oriented testing framework for PHP.
+  - [PHPUnit:](https://phpunit.de/) PHPUnit is a programmer-oriented testing framework for PHP.
 
 ## 社区论坛
   - [Laravel China 社区:](https://laravel-china.org/) 高品质的 Laravel 开发者社区
