@@ -25,7 +25,7 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
 
 ## 进阶学习
   - [PHP 之道:](http://www.phptherightway.com/){:target="_blank"} PHP The Right Way
-  - [Awesome PHP:](https://openset.github.io/awesome-php/){:target="_blank"} A curated list of amazingly awesome PHP libraries, resources and shiny things.
+  - [Awesome PHP:](https://github.com/ziadoz/awesome-php){:target="_blank"} A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## 热门框架
   - [Laravel:](https://laravel.com/){:target="_blank"} The PHP Framework For Web Artisans
@@ -49,9 +49,9 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
 ## 常用工具
   - [PHP Sandbox:](http://sandbox.onlinephpfunctions.com/){:target="_blank"} You can test your PHP code here on many php versions.
   - [PHP For Windows:](http://windows.php.net/){:target="_blank"} This site is dedicated to supporting PHP on Microsoft Windows.
-  - [Composer:](http://sandbox.onlinephpfunctions.com/){:target="_blank"} Dependency Manager for PHP.
+  - [Composer:](https://getcomposer.org/){:target="_blank"} Dependency Manager for PHP.
   - [Xdebug:](https://xdebug.org/){:target="_blank"} Debugger and Profiler Tool for PHP.
-  - [PHPUnit:](http://sandbox.onlinephpfunctions.com/){:target="_blank"} PHPUnit is a programmer-oriented testing framework for PHP.
+  - [PHPUnit:](https://phpunit.de/){:target="_blank"} PHPUnit is a programmer-oriented testing framework for PHP.
 
 ## 社区论坛
   - [Laravel China 社区:](https://laravel-china.org/){:target="_blank"} 高品质的 Laravel 开发者社区
