@@ -25,7 +25,7 @@ PHP语言学习资料索引
 
 ## 进阶学习
   - [PHP 之道:](http://www.phptherightway.com/) PHP The Right Way
-  - [Awesome PHP:](https://openset.github.io/awesome-php/) A curated list of amazingly awesome PHP libraries, resources and shiny things.
+  - [Awesome PHP:](https://github.com/ziadoz/awesome-php) A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## 热门框架
   - [Laravel:](https://laravel.com/) The PHP Framework For Web Artisans
