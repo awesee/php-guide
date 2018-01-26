@@ -1,4 +1,4 @@
-# [PHP 指导](https://openset.github.io/php-guide/)
+# [PHP 指南](https://openset.github.io/php-guide/)
 PHP语言学习资料索引
 
 ## 目录
