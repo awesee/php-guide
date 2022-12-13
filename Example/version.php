@@ -3,8 +3,7 @@
 // 版本格式：主版本号.次版本号.修订号
 function version($version, $carry = 1)
 {
-    preg_match('/^v(\d*)\.?(\d*)\.?(\d*)$/', $version, $matches);
-    print_r($matches);
+    preg_match('/^v(\d+)\.?(\d*)\.?(\d*)$/', $version, $matches);
     if (empty($matches)) {
         return 'v0.1.0';
     }
